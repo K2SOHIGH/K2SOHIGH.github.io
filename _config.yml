@@ -28,11 +28,7 @@ twitter_username: none
 github_username:  K2SOHIGH
 
 # Build settings
-theme: minima
-# theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-
-# remote_theme           : "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
